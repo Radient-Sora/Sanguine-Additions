@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sanguine",
+  "name": "Sanguine Additions",
+  "description": "This Mod add's some unique tools and machines to blood magic",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sora, Abused_Master"],
+  "credits": "Thanks to everyone who helped out!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

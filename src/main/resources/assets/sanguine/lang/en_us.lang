@@ -4,3 +4,5 @@
 #Sigils
 item.sigil_of_forge.name=Sigil of the Forge
 
+#GUI
+forge_sigil.name=Sigil of the Forge
